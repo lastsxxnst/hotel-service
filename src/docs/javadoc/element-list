@@ -1,0 +1,5 @@
+com.example.hotel
+com.example.hotel.controller
+com.example.hotel.model
+com.example.hotel.repository
+com.example.hotel.service
